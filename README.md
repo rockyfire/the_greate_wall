@@ -1,4 +1,3 @@
-the_greate_wall
+Bypass list
 ===============
-
-SwithyOmega Bypass list, Goagent chrome proxy plugin
+Switchy(Google Chrome proxy plugin) Bypass list
